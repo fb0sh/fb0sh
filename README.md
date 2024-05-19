@@ -12,3 +12,4 @@
 |[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=noctisynth&repo=Grassator)](https://github.com/noctisynth/Grassator)|
 |[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=noctisynth&repo=Quantumix)](https://github.com/noctisynth/Quantumix)|
 |[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=noctisynth&repo=oblivion-rust)](https://github.com/noctisynth/oblivion-rust)|
+|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=noctisynth&repo=Moonstone)](https://github.com/noctisynth/Moonstone)|
