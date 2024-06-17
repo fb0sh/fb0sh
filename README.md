@@ -1,8 +1,8 @@
-### Hi there 👋, I'm freetbash
+### Hi there 👋, I'm fb0sh
 
 - 🌱 I’m currently learning: Rust,  Cyber Security, Cryptography
 
-| ![freetbash's GitHub stats](https://github-readme-stats.vercel.app/api?username=freetbash&show_icons=true&theme=graywhite) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freetbash&langs_count=4&theme=graywhite) |
+| ![fb0sh's GitHub stats](https://github-readme-stats.vercel.app/api?username=fb0sh&show_icons=true&theme=graywhite) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fb0sh&langs_count=4&theme=graywhite) |
 | ------------- | ------------- |
 
 
