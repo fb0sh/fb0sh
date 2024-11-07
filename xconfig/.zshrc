@@ -1,8 +1,6 @@
 # custom config
-source $ZSH/oh-my-zsh.sh
-source /usr/share/zsh/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh
-source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
-fpath+=${ZSH_CUSTOM:-${ZSH:-~/.oh-my-zsh}/custom}/plugins/zsh-completions/src
+# sudo git clone https://github.com/zdharma-continuum/fast-syntax-highlighting.git && sudo git clone https://github.com/zsh-users/zsh-autosuggestions.git && sudo git clone https://github.com/zsh-users/zsh-syntax-highlighting.git
+plugins=(git fast-syntax-highlighting zsh-autosuggestions zsh-syntax-highlighting)
 PROMPT="[%n@%m %.]%# "
 LANG=en_US.UTF-8
 export RUSTUP_DIST_SERVER="https://rsproxy.cn"
